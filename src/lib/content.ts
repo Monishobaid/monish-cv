@@ -42,9 +42,10 @@ export const experience: Experience[] = [
   {
     company: "The Economic Times",
     role: "AI Product Apprentice",
-    date: "Aug 2025 — Present",
+    date: "Aug 2025 — Feb 2026",
     type: "Apprenticeship",
     location: "Noida, India",
+    duration: "6 months",
     domain: "economictimes.indiatimes.com",
     points: [
       {
@@ -66,7 +67,7 @@ export const experience: Experience[] = [
     role: "Software Developer",
     date: "Feb 2024 — Aug 2025",
     type: "Full-time",
-    location: "Delhi NCR, India",
+    location: "Gurugram, Haryana",
     duration: "1 year 7 months",
     domain: "fuelbuddy.in",
     points: [
@@ -86,7 +87,7 @@ export const experience: Experience[] = [
     role: "Frontend Intern",
     date: "Aug 2023 — Jan 2024",
     type: "Internship",
-    location: "Delhi NCR, India",
+    location: "Gurugram, Haryana",
     duration: "6 months",
     domain: "fuelbuddy.in",
     points: [
